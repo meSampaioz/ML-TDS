@@ -1,0 +1,13 @@
+.venv/
+privacy-preserving-ml/
+privacy-preserving-ml.zip
+venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+artifacts/
+*.joblib
+data/
